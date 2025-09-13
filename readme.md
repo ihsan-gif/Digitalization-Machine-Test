@@ -34,10 +34,18 @@ This Python script automates the process of generating a ceiling layout for **sp
   - Sprinkler coverage (blue circle with 1.5m radius)
 
 ---
+## 🚀 How to Run This Project
 
+```bash
+git clone https://github.com/yourusername/ceiling-layout-generator.git
+cd ceiling-layout-generator
+python ceiling_layout_generator.py
+
+```
 ## 📦 Requirements
 
 Install the required Python libraries:
 
 ```bash
 pip install numpy matplotlib shapely
+
